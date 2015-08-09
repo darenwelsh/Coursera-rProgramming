@@ -1,0 +1,4 @@
+sample.interval=20000
+"[[" "str.default" "str" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "try" "eval" "eval" "withVisible" "evalVis" "capture.output" ".rs.valueFromStr" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" ".rs.valueContents" "<Anonymous>" 
+"pmatch" ".deparseOpts" "deparse" "eval" "match.arg" "format.default" "format" "str.default" "str" "<Anonymous>" "do.call" "strSub" "str.default" "str" "<Anonymous>" "do.call" "strSub" "str.default" "str" "<Anonymous>" "do.call" "strSub" "str.default" "NextMethod" "str.data.frame" "str" "<Anonymous>" "do.call" "strSub" "str.default" "str" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "try" "eval" "eval" "withVisible" "evalVis" "capture.output" ".rs.valueFromStr" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" ".rs.valueContents" "<Anonymous>" 
+"FUN" "lapply" "Reduce" ".rs.getCompletionsPackages" "Reduce" "<Anonymous>" 
